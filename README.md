@@ -50,6 +50,9 @@ $ sudo apt install docker-compose
 $ curl -sSL https://raw.githubusercontent.com/bitnami/bitnami-docker-wordpress/master/docker-compose.yml > docker-compose.yml
 $ docker-compose up -d
 ```
+
+  **Now access your application at [https://localhost:80](https://localhost).**
+  
 .<img src="https://scontent-hkt1-2.xx.fbcdn.net/v/t1.15752-9/181616110_303527351370295_6971320746211948841_n.png?_nc_cat=111&ccb=1-3&_nc_sid=ae9488&_nc_ohc=kVMFrYythYoAX-sroTO&_nc_ht=scontent-hkt1-2.xx&oh=ded591d4b0be743d97e387e3a42558e6&oe=60BB5386">
 
 .<img src="https://scontent-hkt1-2.xx.fbcdn.net/v/t1.15752-9/180944518_472783833951499_1829735941912541210_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_ohc=Ji3Vtd-2aEIAX-EQaN8&tn=epQACHfbLqjx0qY6&_nc_ht=scontent-hkt1-2.xx&oh=b41b2c2bd6b823665a5b0bddcd818275&oe=60B9B622">
